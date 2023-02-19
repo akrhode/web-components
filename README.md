@@ -1,4 +1,4 @@
-# webComponents
+# web-components
 
 Six small projects from Jonas Schmedtmann's course 'Build Responsive Real-World Websites with HTML and CSS'
 
